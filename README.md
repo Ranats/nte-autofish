@@ -4,8 +4,9 @@ Windows fishing assistant for NTE: Neverness to Everness.
 
 ![NTE AutoFish thumbnail](assets/nte-autofish-thumbnail.png)
 
-[Buy / Download NTE AutoFish](https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6)
-| [Watch the demo](https://youtu.be/0h5MJfFbXqk)
+[Buy / Download on itch.io](https://ranats.itch.io/nte-autofish)
+| [Watch the demo](https://www.youtube.com/watch?v=0h5MJfFbXqk)
+| [X / Twitter](https://x.com/PixelUtilityLab/status/2052105671139803640)
 | [Japanese guide](README_JA.md)
 
 NTE AutoFish is a small Windows utility that uses screen recognition to assist repeated fishing actions in NTE. It watches the fishing UI and sends keyboard inputs for casting, hook prompts, the fishing bar minigame, and result-screen recovery.
@@ -35,6 +36,14 @@ If NTE requires administrator-level input on your PC, run PowerShell or Command 
 This is a Python-based Windows tool, not a standalone mobile app. The program is designed to be started while NTE is already at a fishing spot in the fishing-ready state.
 
 Compatibility can depend on resolution, UI scale, display mode, HDR settings, game updates, anti-cheat behavior, and account environment. Please watch the demo and check the recommended environment before purchasing.
+
+Primary purchase page:
+
+`https://ranats.itch.io/nte-autofish`
+
+Alternative checkout:
+
+`https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6`
 
 ## After Purchase
 
@@ -76,6 +85,6 @@ Do not post private account information, purchase receipts, or UID screenshots p
 
 ## Disclaimer
 
-This is an unofficial automation tool. It is not affiliated with Hotta Studio, Perfect World Games, YouTube, GitHub, LemonSqueezy, or Neverness to Everness.
+This is an unofficial automation tool. It is not affiliated with Hotta Studio, Perfect World Games, YouTube, GitHub, itch.io, LemonSqueezy, X, or Neverness to Everness.
 
 Automating gameplay may violate game terms of service. Use at your own risk.

@@ -15,4 +15,4 @@ Do not post private account information, purchase receipts, license emails, or U
 
 ## Refunds
 
-Payments and delivery are handled through LemonSqueezy. Use the purchase receipt or LemonSqueezy checkout flow for payment-related requests.
+Payments and delivery may be handled through itch.io or LemonSqueezy depending on where you purchased. Use the purchase receipt or the store's support flow for payment-related requests.
