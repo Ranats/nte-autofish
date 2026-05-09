@@ -2,6 +2,15 @@
 
 NTE: Neverness to Everness 向けの Windows 釣り支援ツールです。
 
+[![Release](https://img.shields.io/badge/release-v0.1.1-50f0ba)](#最新アップデート)
+[![Platform](https://img.shields.io/badge/platform-Windows-56d8ff)](#推奨環境)
+[![Python](https://img.shields.io/badge/python-3.11%2B-3776ab?logo=python&logoColor=white)](#推奨環境)
+[![Demo](https://img.shields.io/badge/demo-YouTube-ff0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0h5MJfFbXqk)
+[![Buy](https://img.shields.io/badge/buy-LemonSqueezy-7047eb)](https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6)
+[![Support](https://img.shields.io/badge/support-GitHub%20Issues-24292f?logo=github&logoColor=white)](../../issues)
+[![License](https://img.shields.io/badge/license-proprietary-lightgrey)](LICENSE.md)
+[![Unofficial](https://img.shields.io/badge/status-unofficial-orange)](#免責事項)
+
 [![NTE AutoFish デモ動画](assets/nte-autofish-thumbnail.png)](https://www.youtube.com/watch?v=0h5MJfFbXqk)
 
 [LemonSqueezyで購入 / ダウンロード](https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6)
