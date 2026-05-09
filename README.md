@@ -2,14 +2,27 @@
 
 Windows fishing assistant for NTE: Neverness to Everness.
 
-![NTE AutoFish thumbnail](assets/nte-autofish-thumbnail.png)
+[![Watch the NTE AutoFish demo](assets/nte-autofish-thumbnail.png)](https://www.youtube.com/watch?v=0h5MJfFbXqk)
 
-[Buy / Download on itch.io](https://ranats.itch.io/nte-autofish)
+[Buy / Download on LemonSqueezy](https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6)
+| [itch.io marketplace page](https://ranats.itch.io/nte-autofish)
 | [Watch the demo](https://www.youtube.com/watch?v=0h5MJfFbXqk)
 | [X / Twitter](https://x.com/PixelUtilityLab/status/2052105671139803640)
 | [Japanese guide](README_JA.md)
 
 NTE AutoFish is a small Windows utility that uses screen recognition to assist repeated fishing actions in NTE. It watches the fishing UI and sends keyboard inputs for casting, hook prompts, the fishing bar minigame, and result-screen recovery.
+
+## Latest Update
+
+Current release: `v0.1.1`  
+Last updated: 2026-05-10
+
+- Improved result-screen detection and close/retry behavior after a catch.
+- Added safer pause behavior when the no-bait notice or fishing menu is detected.
+- Reduced false pauses from no-bait detection while the normal cast prompt is visible.
+- Improved foreground-window handling so inputs are skipped when the NTE window cannot be confirmed.
+- Added target-window capture support when configured.
+- Tuned cast/hook retry timing for briefly hidden prompts or missed inputs.
 
 ## What It Does
 
@@ -37,13 +50,15 @@ This is a Python-based Windows tool, not a standalone mobile app. The program is
 
 Compatibility can depend on resolution, UI scale, display mode, HDR settings, game updates, anti-cheat behavior, and account environment. Please watch the demo and check the recommended environment before purchasing.
 
-Primary purchase page:
+Primary checkout:
+
+`https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6`
+
+Marketplace mirror:
 
 `https://ranats.itch.io/nte-autofish`
 
-Alternative checkout:
-
-`https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6`
+LemonSqueezy is the primary direct checkout for this project. The itch.io page is kept as a marketplace presence and alternate download route when available. Payment, receipt, refund, and download-link issues should be handled through the store where you purchased.
 
 ## After Purchase
 
@@ -81,10 +96,12 @@ For setup issues, open a GitHub issue in this repository and include:
 - Whether NTE is running in borderless fullscreen
 - A short description of where the automation stops
 
+For payment, receipt, refund, or download-link issues, use the support/contact flow from the store where you purchased.
+
 Do not post private account information, purchase receipts, or UID screenshots publicly.
 
 ## Disclaimer
 
 This is an unofficial automation tool. It is not affiliated with Hotta Studio, Perfect World Games, YouTube, GitHub, itch.io, LemonSqueezy, X, or Neverness to Everness.
 
-Automating gameplay may violate game terms of service. Use at your own risk.
+Automating gameplay may violate game terms of service. Use at your own risk. Operation is not guaranteed after game updates, UI changes, anti-cheat changes, account restrictions, or unsupported display settings.
