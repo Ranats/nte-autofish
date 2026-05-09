@@ -7,7 +7,7 @@ Windows fishing assistant for NTE: Neverness to Everness.
 [![Python](https://img.shields.io/badge/python-3.11%2B-3776ab?logo=python&logoColor=white)](#recommended-environment)
 [![Demo](https://img.shields.io/badge/demo-YouTube-ff0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=0h5MJfFbXqk)
 [![Buy](https://img.shields.io/badge/buy-LemonSqueezy-7047eb)](https://cilabworks.lemonsqueezy.com/checkout/buy/33197307-b8af-4bfd-b07a-3355cbcce4b6)
-[![Support](https://img.shields.io/badge/support-GitHub%20Issues-24292f?logo=github&logoColor=white)](../../issues)
+[![Support](https://img.shields.io/badge/support-GitHub%20Issues-24292f?logo=github&logoColor=white)](https://github.com/Ranats/nte-autofish/issues)
 [![License](https://img.shields.io/badge/license-proprietary-lightgrey)](LICENSE.md)
 [![Unofficial](https://img.shields.io/badge/status-unofficial-orange)](#disclaimer)
 
@@ -58,6 +58,8 @@ If NTE requires administrator-level input on your PC, run PowerShell or Command 
 This is a Python-based Windows tool, not a standalone mobile app. The program is designed to be started while NTE is already at a fishing spot in the fishing-ready state.
 
 Compatibility can depend on resolution, UI scale, display mode, HDR settings, game updates, anti-cheat behavior, and account environment. Please watch the demo and check the recommended environment before purchasing.
+
+This is an unofficial automation tool. Gameplay automation may violate game terms of service and can carry account or anti-cheat risk. Use it only if you accept that risk.
 
 Primary checkout:
 
